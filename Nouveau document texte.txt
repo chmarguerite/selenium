@@ -1,0 +1,2 @@
+http://dolibarr.selenium-formation.org/
+http://orangehrm.selenium-formation.org/
